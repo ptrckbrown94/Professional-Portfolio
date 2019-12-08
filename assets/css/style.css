@@ -48,21 +48,12 @@ h2{
     color: hotpink;
 }
 
-.app-hangman{
-   
-    color: aqua;
-}
-.app-rpg{
-    color: aqua;
-}
-.app-trivia{
-    color: aqua;
- 
-}
-.app-rutgasswithwidgets{
+a:link {
+
     color: aqua;
 }
 
-.app-rockpaperscissor{
+a.visited {
     color: aqua;
 }
+
