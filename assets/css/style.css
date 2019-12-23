@@ -66,3 +66,18 @@ h2{
     color: #60BAE4 ! important;
 }
 
+.thumbnail{
+    widows: 200px;
+    height: 200px;
+}
+
+a{
+text-decoration: none;    
+color: grey;
+}
+
+a:hover{
+    text-decoration: none;    
+    color: #60BAE4;
+    }
+
