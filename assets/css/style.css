@@ -79,8 +79,8 @@ color: grey;
 a:hover{
     text-decoration: none;    
     color: #60BAE4;
-    }
+}
 
-    a.footnav{
+a.footnav{
         color: white;
     }
