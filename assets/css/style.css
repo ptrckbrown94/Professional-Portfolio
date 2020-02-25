@@ -9,7 +9,7 @@ body{
 .container{
     background-color: white;
     margin: 50px auto;
-    padding: 15px 15px;
+    padding: 15px 15px; 
     margin-bottom: 125px;
 }
 
@@ -57,7 +57,6 @@ footer{
     align-content: center;
     justify-content: center;
     color: white;
-
 }
 
 
@@ -65,11 +64,16 @@ h2{
     color: #60BAE4 ! important;
     font-family: 'Noto Serif', serif;
     display: inline-block;
-  
+
 }
 
 .button{
-    color: #60BAE4 ! important;
+    color: white ! important;
+    background-color: rgb(188, 224, 241);
+    height: 50px;
+    width: 100px;
+    padding: 5px;
+    border: none;
 }
 
 .thumbnail{
